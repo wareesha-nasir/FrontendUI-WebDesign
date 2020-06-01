@@ -4,10 +4,11 @@ body{
     box-sizing: border-box;
     font-family: 'Merriweather', serif;
     overflow-x: hidden;
+    
 }
 h1{
     color: rgb(134, 4, 37) ;
-    font-family: 'Merriweather', serif;
+    font-family: 'Dancing Script', cursive;
     font-size: 50px;
     text-transform: uppercase;
     /*position: absolute;
